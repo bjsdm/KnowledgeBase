@@ -1,5 +1,6 @@
-- BaseActivity最基础的Activity，每个Activity都需要继承
-#### [stackoverflow:Check if color is dark or light in Android](https://stackoverflow.com/questions/24260853/check-if-color-is-dark-or-light-in-android)
+### [stackoverflow:Check if color is dark or light in Android](https://stackoverflow.com/questions/24260853/check-if-color-is-dark-or-light-in-android)
+
+### BaseActivity最基础的Activity，每个Activity都需要继承
 
 ``` 
   /**
